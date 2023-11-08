@@ -1,1 +1,1 @@
-# English_Bot for learning new english words
+# Bot for learning new english words at Telegram
